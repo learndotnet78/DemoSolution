@@ -20,6 +20,7 @@ var connectionSection = builder.Configuration.GetSection("ConnectionStrings");
 // Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+//Add swagger servies
 builder.Services.AddSwaggerGen(opt =>
 {
     opt.SwaggerDoc("v1", new OpenApiInfo { Title = "MyAPI", Version = "v1" });
