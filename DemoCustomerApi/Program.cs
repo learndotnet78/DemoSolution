@@ -8,6 +8,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+//Commented environment changes
 //var env = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 //builder.Configuration.AddJsonFile($"appsettings.{env}.json");
 
