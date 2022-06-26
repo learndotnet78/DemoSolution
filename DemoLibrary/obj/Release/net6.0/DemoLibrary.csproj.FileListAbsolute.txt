@@ -1,0 +1,12 @@
+E:\Projects\Repos\DemoSolution\DemoLibrary\bin\Release\net6.0\DemoLibrary.deps.json
+E:\Projects\Repos\DemoSolution\DemoLibrary\bin\Release\net6.0\DemoLibrary.dll
+E:\Projects\Repos\DemoSolution\DemoLibrary\bin\Release\net6.0\DemoLibrary.pdb
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\DemoLibrary.AssemblyInfo.cs
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\DemoLibrary.dll
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\refint\DemoLibrary.dll
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\DemoLibrary.pdb
+E:\Projects\Repos\DemoSolution\DemoLibrary\obj\Release\net6.0\ref\DemoLibrary.dll

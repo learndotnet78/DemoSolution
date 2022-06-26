@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BZLTgMItgqf+vg+33Lo5FZnKRrP9m6Sxf03H2FUkXak=",
+  "Source": "DemoSecureApi",
+  "BasePath": "_content/DemoSecureApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

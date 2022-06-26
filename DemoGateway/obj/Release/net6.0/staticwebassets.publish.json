@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0TcEfVziYLW/VrbvV5mioLa9gp/2aVYquWF/FCs1/NU=",
+  "Source": "DemoGateway",
+  "BasePath": "_content/DemoGateway",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

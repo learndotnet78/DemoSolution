@@ -1,0 +1,8 @@
+# Ignore local appSettings
+appsettings.Development.json
+
+# Ignore production appSettings
+appsettings.Production.json
+
+# Ignore appSettings
+appsettings.json

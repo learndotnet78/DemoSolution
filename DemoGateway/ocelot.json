@@ -1,0 +1,43 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/customer",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 13731
+        }
+      ],
+      "UpstreamPathTemplate": "/customer",
+      "UpstreamHttpMethod": [ "GET" ]
+      //,
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamPathTemplate": "/customer/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 13731
+        }
+      ],
+      "UpstreamPathTemplate": "/customer/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+      //,
+
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:12848"
+  }
+}

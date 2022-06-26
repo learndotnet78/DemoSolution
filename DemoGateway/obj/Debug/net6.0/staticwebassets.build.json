@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CEwb+Mn4g/DPPgRJmQvJADsfNc3E1WIVMb7wYdwAMpg=",
+  "Source": "DemoGateway",
+  "BasePath": "_content/DemoGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

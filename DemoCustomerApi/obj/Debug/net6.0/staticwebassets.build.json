@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G/T2g4uzfFdoKrMdIWXdFkcTJOcMnjYPPhdTJmpvlJw=",
+  "Source": "DemoCustomerApi",
+  "BasePath": "_content/DemoCustomerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
