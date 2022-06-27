@@ -17,8 +17,6 @@ E:\Projects\Repos\DemoSolution\DemoSecureApi\bin\Debug\net6.0\Swashbuckle.AspNet
 E:\Projects\Repos\DemoSolution\DemoSecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Projects\Repos\DemoSolution\DemoSecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Projects\Repos\DemoSolution\DemoSecureApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-E:\Projects\Repos\DemoSolution\DemoSecureApi\bin\Debug\net6.0\DemoLibrary.dll
-E:\Projects\Repos\DemoSolution\DemoSecureApi\bin\Debug\net6.0\DemoLibrary.pdb
 E:\Projects\Repos\DemoSolution\DemoSecureApi\obj\Debug\net6.0\DemoSecureApi.csproj.AssemblyReference.cache
 E:\Projects\Repos\DemoSolution\DemoSecureApi\obj\Debug\net6.0\DemoSecureApi.GeneratedMSBuildEditorConfig.editorconfig
 E:\Projects\Repos\DemoSolution\DemoSecureApi\obj\Debug\net6.0\DemoSecureApi.AssemblyInfoInputs.cache
@@ -35,3 +33,4 @@ E:\Projects\Repos\DemoSolution\DemoSecureApi\obj\Debug\net6.0\refint\DemoSecureA
 E:\Projects\Repos\DemoSolution\DemoSecureApi\obj\Debug\net6.0\DemoSecureApi.pdb
 E:\Projects\Repos\DemoSolution\DemoSecureApi\obj\Debug\net6.0\DemoSecureApi.genruntimeconfig.cache
 E:\Projects\Repos\DemoSolution\DemoSecureApi\obj\Debug\net6.0\ref\DemoSecureApi.dll
+E:\Projects\Repos\DemoSolution\DemoSecureApi\bin\Debug\net6.0\Newtonsoft.Json.dll
